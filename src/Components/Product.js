@@ -8,7 +8,7 @@ import headphone from '../assets/images/head phones.jpg'
 
 const Product = () =>{
     return(
-        <div className="grid grid-row-2 grid-flow-col gap-4 p-10">
+        <div className="sm:grid grid-row-2 grid-flow-col gap-4 p-10">
         <ProductCard image={bottal} name='Water Bottal' price='200.00' />
         <ProductCard image={cube} name='Cube' price='50.00'/>
         <ProductCard image={goggles} name='Goggles' price='400.00'/>
