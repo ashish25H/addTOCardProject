@@ -25,7 +25,8 @@ export const counterSlice = createSlice({
         });
         console.log(res);
         if (res) {
-          console.log(`Present`);
+          // console.log(`Present`);
+          alert('This item already Present in cart');
         } else {
           state.card.push(product);
         }
