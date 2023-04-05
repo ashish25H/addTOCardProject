@@ -2,7 +2,7 @@
 ##  Shopping Cart
 
 # Live link
-## [Click here](https://sage-eclair-4cb0b2.netlify.app)
+## [Click here](https://frolicking-semolina-db220d.netlify.app)
 
 
 # Problem Statement:
