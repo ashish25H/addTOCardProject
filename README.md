@@ -13,6 +13,7 @@ When you click on Add to Card button then that product is stored in the redux st
 
 
 # Description
+The shopping cart project is an e-commerce web application that allows users to browse products, add items to their cart, and check out with their selected items. The application will be developed using the ReactJS library for the front end.The Shopping Cart app is a two-page application developed using React, Tailwind CSS, Redux Toolkit, and React Router. The app aims to provide a user-friendly interface for adding and removing products from the cart and to provide a seamless shopping experience for the users.
 
 # Technology
 - HTML
